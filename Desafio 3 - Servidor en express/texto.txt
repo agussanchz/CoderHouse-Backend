@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Zapatillas Nike zooom",
+    "price": 1000,
+    "category": "Zapatillas deportivas",
+    "id": 1
+  },
+  {
+    "name": "Zapatillas Puma",
+    "price": 2000,
+    "category": "Zapatillas deportivas",
+    "id": 2
+  },
+  {
+    "name": "Zapatillas Adidas",
+    "price": 3000,
+    "category": "Zapatillas deportivas",
+    "id": 3
+  }
+]

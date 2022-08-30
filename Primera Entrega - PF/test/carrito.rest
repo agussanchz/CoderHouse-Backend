@@ -1,0 +1,45 @@
+# //METODO PARA CREAR CARRITO
+# POST http://localhost:8080/api/carrito HTTP/1.1
+# Content-Type: application/json
+
+# {
+    
+# }
+
+//BORRAR Y VACIAR CARRITO
+# DELETE  http://localhost:8080/api/carrito/3 HTTP/1.1
+# Content-Type: application/json
+
+# {
+#     "msg": "carrito 3 eliminado exitosamente"
+# }
+
+//AGREGAR PRODUCTO AL CARRITO
+# POST http://localhost:8080/api/carrito/1/productos HTTP/1.1
+# Content-Type: application/json
+
+# {
+#     "nombre": "producto3",
+#     "descripcion": "zapatilla puma",
+#     "codigo": "2000",
+#     "thumbnail": "url2",
+#     "precio": "20000",
+#     "stock": "10"
+# }
+
+
+# //TRAER TODOS LOS PRODUCTOS DE UN CARRITO
+# GET http://localhost:8080/api/carrito/1/productos HTTP/1.1
+# Content-Type: application/json
+
+# {
+
+# }
+
+# //BORRAR PRODUCTO DE UN CARRITO
+# DELETE http://localhost:8080/api/carrito/1/productos/3 HTTP/1.1
+# Content-Type: application/json
+
+# {
+#     "msg": "producto eliminado exitosamente"
+# }

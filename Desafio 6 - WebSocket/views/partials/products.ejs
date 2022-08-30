@@ -1,0 +1,13 @@
+<% if (productExist){ %>
+    <% list.forEach((prod) => { %>
+        <ul>
+            <li><%= prod.title %></li>
+            <li><%= prod.price %></li>
+            <li><%= prod.thumbnail %></li>
+        </ul>
+    <%})%> 
+<% } else { %>
+    <h2>No se encuentran productos</h2>
+<% } %>
+
+<a href="/">Volver al menu principal</a>

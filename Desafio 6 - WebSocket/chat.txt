@@ -1,0 +1,52 @@
+[
+  {
+    "email": "tincho@gmail.com",
+    "mensaje": "propbnaod",
+    "id": 1
+  },
+  {
+    "email": "tincho@gmail.com",
+    "mensaje": "propbnaod",
+    "id": 2
+  },
+  {
+    "email": "agustinsanchezx@gmail.com",
+    "mensaje": "buenasss",
+    "id": 3
+  },
+  {
+    "email": "agustin@gmail.com",
+    "mensaje": "andaaa",
+    "id": 4
+  },
+  {
+    "email": "agustinsanchezx@gmail.com",
+    "mensaje": "hola!",
+    "id": 5
+  },
+  {
+    "email": "pini@gmail.com",
+    "mensaje": "buenass",
+    "id": 6
+  },
+  {
+    "email": "agustinsanchezx@gmail.com",
+    "mensaje": "como estas pinukii",
+    "id": 7
+  },
+  {
+    "email": "pini@gmail.com",
+    "mensaje": "bien hnooo",
+    "id": 8
+  },
+  {
+    "email": "pini@gmail.com",
+    "mensaje": "vos como etas=",
+    "id": 9
+  },
+  {
+    "email": "agustinsanchezx@gmail.com",
+    "mensaje": "bien wachooo",
+    "id": 10
+  }
+]

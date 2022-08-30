@@ -1,0 +1,32 @@
+[
+  {
+    "title": "title3",
+    "price": "40546",
+    "thumbnail": "url 3",
+    "id": 1
+  },
+  {
+    "title": "",
+    "price": "",
+    "thumbnail": "",
+    "id": 2
+  },
+  {
+    "title": "anda?",
+    "price": "22",
+    "thumbnail": "ANDA?",
+    "id": 3
+  },
+  {
+    "title": "probnado2",
+    "price": "22",
+    "thumbnail": "anda?",
+    "id": 4
+  },
+  {
+    "title": "producto1",
+    "price": "2200",
+    "thumbnail": "url98",
+    "id": 5
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "timestamp": 1661619188910,
+    "id": 1,
+    "productos": [
+      {
+        "timestamp": 1661619230636,
+        "id": 1,
+        "nombre": "producto2",
+        "descripcion": "zapatilla adidas",
+        "codigo": "2000",
+        "thumbnail": "url2",
+        "precio": "20000",
+        "stock": "10"
+      },
+      {
+        "timestamp": 1661619232171,
+        "id": 2,
+        "nombre": "producto2",
+        "descripcion": "zapatilla adidas",
+        "codigo": "2000",
+        "thumbnail": "url2",
+        "precio": "20000",
+        "stock": "10"
+      },
+      {
+        "timestamp": 1661624373158,
+        "id": 3,
+        "nombre": "producto3",
+        "descripcion": "zapatilla puma",
+        "codigo": "2000",
+        "thumbnail": "url2",
+        "precio": "20000",
+        "stock": "10"
+      }
+    ]
+  },
+  {
+    "timestamp": 1661619190358,
+    "id": 2,
+    "productos": [
+      {
+        "timestamp": 1661619268260,
+        "id": 1,
+        "nombre": "producto1",
+        "descripcion": "zapatilla nike",
+        "codigo": "2000",
+        "thumbnail": "url2",
+        "precio": "20000",
+        "stock": "10"
+      },
+      {
+        "timestamp": 1661619281167,
+        "id": 2,
+        "nombre": "producto3",
+        "descripcion": "zapatilla puma",
+        "codigo": "2000",
+        "thumbnail": "url2",
+        "precio": "20000",
+        "stock": "10"
+      }
+    ]
+  },
+  {
+    "timestamp": 1661619217764,
+    "id": 3,
+    "productos": []
+  }
+]

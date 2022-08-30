@@ -1,0 +1,14 @@
+html 
+    head 
+        title="Pug - Productos"
+    body 
+        if productExist 
+            each prod in list 
+                ul 
+                    li=prod.title 
+                    li=prod.price 
+                    li=prod.thumbnail
+        else 
+            h2="No se encuentran productos"
+        
+        a(href="/") Volver al menu principal
